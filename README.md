@@ -1,6 +1,6 @@
 # 🚀 NeurIPS 2025 — AI/ML Systems Ramp-Up
 
-This repository is my structured, 48-hour learning ramp-up focused on the core AI/ML systems topics that are most relevant for NeurIPS 2025 recruiting and technical discussions.  
+This repository is my structured, 48-hour learning ramp-up focused on the core AI/ML systems topics that are most relevant for NeurIPS 2025.  
 It contains **lightweight code demos + concise technical notes** covering the essentials of:
 
 - ⚡ **LLM Inference Systems** (vLLM concepts, PagedAttention, batching)
@@ -48,11 +48,8 @@ neurips-2025-systems-rampup/
 This project is meant to:
 
 - Build strong *systems intuition* across high-impact LLM topics  
-- Enable confident conversations with NeurIPS recruiting teams  
 - Serve as a quick reference for LLM inference, memory, agents, RAG, and multimodality  
 - Showcase proactive learning through clean examples and organized notes  
-
-Even small, clear demos can have a big impact when networking with researchers or hiring managers.
 
 ---
 
